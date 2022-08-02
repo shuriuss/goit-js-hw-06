@@ -16,5 +16,5 @@ function handler(event) {
     // console.log(password.value);
     event.target.reset();
   }
+  console.log(data);
 }
-console.log(data);
